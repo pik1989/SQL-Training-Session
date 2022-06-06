@@ -6,9 +6,9 @@
 
 ### **Below are the links to the two classes taught so far:** 👇👇
 
-📺 _**Day 1:**_ https://www.youtube.com/watch?v=T5_VpyP2NP4
+📺 _**Day 1:**_ https://www.youtube.com/watch?v=nM3XsoRRAKM
 
-📺 _**Day 2:**_ https://www.youtube.com/watch?v=cFKcDHzRcrM
+📺 _**Day 2:**_ https://www.youtube.com/watch?v=_6sSCaEvHao
 
 📺 _**Day 3:**_ To be updated
 
