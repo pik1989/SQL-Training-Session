@@ -1,7 +1,7 @@
 <h2 align="left">FREE SQL Sessions conducted by Satyajit Pattnaik 👏👏</h2> 
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/34673684/172162786-f943452e-ac3c-4d8b-aef4-0dee1fc71272.png" width="450" title="hover text">
+  <img src="https://user-images.githubusercontent.com/34673684/172162970-6178199f-3e73-49c9-9839-db6f003f6aa8.png" width="450" title="hover text">
 </p>
 
 ### **Below are the links to the two classes taught so far:** 👇👇
