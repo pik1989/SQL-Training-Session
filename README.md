@@ -15,10 +15,9 @@
 
 ### Don't want to wait for the free classes, and want to learn quickly? 👇👇
 
-[<img alt="alt_text" width="450px" src="https://user-images.githubusercontent.com/34673684/160292625-398069c9-5fa2-41a6-a74c-a8353d9d0f72.png" />](https://www.udemy.com/course/the-ultimate-guide-to-learn-sql-from-scratch-2022-edition/)
+[<img alt="alt_text" width="450px" src="[https://user-images.githubusercontent.com/34673684/160292625-398069c9-5fa2-41a6-a74c-a8353d9d0f72.png](https://user-images.githubusercontent.com/34673684/172162354-11c9960d-11bd-41e9-b6bc-bd357e08288f.png)" />](https://www.udemy.com/course/the-ultimate-guide-to-learn-sql-from-scratch-2022-edition/)
 
-In case you are willing to learn Power BI from scratch in a structured way, enroll using the link to get a discounted price:
-(https://www.udemy.com/course/microsoft-power-bi-complete-guide-2022-edition/?referralCode=DA411AF80B15E32A988F)
+[<img alt="alt_text" width="450px" src="https://user-images.githubusercontent.com/34673684/160292625-398069c9-5fa2-41a6-a74c-a8353d9d0f72.png" />](https://www.udemy.com/course/microsoft-power-bi-complete-guide-2022-edition/?referralCode=DA411AF80B15E32A988F)
 
 ### Please fork the repo if you like it !! 
 ---
