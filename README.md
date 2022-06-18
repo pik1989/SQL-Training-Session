@@ -10,7 +10,7 @@
 
 📺 _**Day 2:**_ https://www.youtube.com/watch?v=_6sSCaEvHao
 
-📺 _**Day 3:**_ To be updated
+📺 _**Day 3:**_ https://www.youtube.com/watch?v=YPAd_PSeU7s
 
 
 ### Don't want to wait for the free classes, and want to learn quickly? 👇👇
